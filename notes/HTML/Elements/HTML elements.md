@@ -1,7 +1,7 @@
 # HTML elements
 
 Category: Fundamentals of HTML
-Summary: HTML is structured with elements such as <body>, headings, <div>, and lists. Attributes like id enhance elements, while tags like <img> and <video> allow media integration. Proper use of <alt> text improves accessibility and SEO.
+Summary: HTML is structured with elements such as `<body>`, headings, `<div>`, and lists. Attributes like id enhance elements, while tags like `<img>` and `<video>` allow media integration. Proper use of `<alt>` text improves accessibility and SEO.
 
 <aside>
 🔗
